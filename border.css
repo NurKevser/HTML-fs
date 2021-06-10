@@ -1,0 +1,29 @@
+.div1 {
+    border: 1px solid blueviolet;
+    width: 80%;
+    margin: auto;
+}
+
+#par-2 {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: tomato;
+}
+
+#par-3 {
+    border-style: groove;
+    border-width: 4px 10px;
+    border-color: tomato;
+}
+
+#par-4 {
+    border-style: double;
+    border-width: 4px 10px;
+    border-color: #2a9410;
+}
+
+#par-5 {
+    border-style: dotted;
+    border-width: 20px;
+    border-color: #2a9410;
+}
